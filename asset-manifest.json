@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.eb520ab4.css",
-    "main.js": "/static/js/main.c2d06931.js",
+    "main.js": "/static/js/main.f34b8972.js",
     "static/css/394.20b3e56f.chunk.css": "/static/css/394.20b3e56f.chunk.css",
     "static/js/394.4b939837.chunk.js": "/static/js/394.4b939837.chunk.js",
     "static/css/661.05c89ec3.chunk.css": "/static/css/661.05c89ec3.chunk.css",
-    "static/js/661.a25f471e.chunk.js": "/static/js/661.a25f471e.chunk.js",
+    "static/js/661.a62547c9.chunk.js": "/static/js/661.a62547c9.chunk.js",
     "static/css/686.8dc8f5f4.chunk.css": "/static/css/686.8dc8f5f4.chunk.css",
     "static/js/686.950059c1.chunk.js": "/static/js/686.950059c1.chunk.js",
     "static/js/837.3e614bee.chunk.js": "/static/js/837.3e614bee.chunk.js",
@@ -32,16 +32,22 @@
     "static/media/Eternal Life_.JPG": "/static/media/Eternal Life_.f74e7efb5ea482100586.JPG",
     "static/media/Brazil Cerrado.JPG": "/static/media/Brazil Cerrado.2db2a4c02639d8411c5b.JPG",
     "static/media/Tanzania AA Yetu Tamu.JPG": "/static/media/Tanzania AA Yetu Tamu.f94fa14de092482dbfd1.JPG",
+    "static/media/Colombia Excelso.JPG": "/static/media/Colombia Excelso.7df991a88ae464ee5451.JPG",
+    "static/media/Ethiopia Sidamo.JPG": "/static/media/Ethiopia Sidamo.89b41b73bddb2a08a806.JPG",
     "static/media/Honduras Beneficio Santa Rosa.JPG": "/static/media/Honduras Beneficio Santa Rosa.b15148af7a6d6db7c636.JPG",
+    "static/media/Kenja Asali.JPG": "/static/media/Kenja Asali.b5950f00268e9b24cffa.JPG",
+    "static/media/Guatemala Coban.JPG": "/static/media/Guatemala Coban.ee877de8abfde2096ded.JPG",
+    "static/media/Ethiopia Guji.JPG": "/static/media/Ethiopia Guji.abe3dc2b7009aa442f4a.JPG",
+    "static/media/Rwanda Kinini.JPG": "/static/media/Rwanda Kinini.709b1b72682b95642721.JPG",
     "static/media/sorry_1.jpg": "/static/media/sorry_1.85ac2ba67b69f983137c.jpg",
     "static/media/logo_small.ico": "/static/media/logo_small.00dddc7d0e7c835400b8.ico",
     "index.html": "/index.html",
     "main.eb520ab4.css.map": "/static/css/main.eb520ab4.css.map",
-    "main.c2d06931.js.map": "/static/js/main.c2d06931.js.map",
+    "main.f34b8972.js.map": "/static/js/main.f34b8972.js.map",
     "394.20b3e56f.chunk.css.map": "/static/css/394.20b3e56f.chunk.css.map",
     "394.4b939837.chunk.js.map": "/static/js/394.4b939837.chunk.js.map",
     "661.05c89ec3.chunk.css.map": "/static/css/661.05c89ec3.chunk.css.map",
-    "661.a25f471e.chunk.js.map": "/static/js/661.a25f471e.chunk.js.map",
+    "661.a62547c9.chunk.js.map": "/static/js/661.a62547c9.chunk.js.map",
     "686.8dc8f5f4.chunk.css.map": "/static/css/686.8dc8f5f4.chunk.css.map",
     "686.950059c1.chunk.js.map": "/static/js/686.950059c1.chunk.js.map",
     "837.3e614bee.chunk.js.map": "/static/js/837.3e614bee.chunk.js.map",
@@ -49,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.eb520ab4.css",
-    "static/js/main.c2d06931.js"
+    "static/js/main.f34b8972.js"
   ]
 }
